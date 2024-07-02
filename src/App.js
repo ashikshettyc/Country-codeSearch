@@ -48,7 +48,7 @@ function App() {
             </div>
           ) : (
             <p className="text-gray-500">
-              Enter a valid ISO code to get the country name.
+              Enter a valid ISO code to get the country name i.e "IN".
             </p>
           )}
         </div>
